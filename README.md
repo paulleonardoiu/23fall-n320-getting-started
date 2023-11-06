@@ -1,4 +1,5 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Paul leonardo
+Live Link: [https://23fall-n320-getting-started-kappa.vercel.app/](https://23fall-n320-getting-started-kappa.vercel.app/)
 
 ## Getting Started
 
